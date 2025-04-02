@@ -7,6 +7,7 @@ Multithreading adalah kemampuan suatu program atau sistem operasi untuk mendukun
 **Contoh multithreading:**
 Multithreading digunakan dalam banyak konteks yang berbeda. Salah satu contohnya adalah ketika data dimasukkan ke dalam spreadsheet dan digunakan untuk aplikasi real-time.
 
+
 ## Perbedaan Thread dan Runnable
 **Pengertian Thread:**
 Thread merupakan sebuah pengontrol aliran program. Untuk lebih mudahnya, bayangkanlah thread sebagai sebuah proses yang akan dieksekusi didalam sebuah program tertentu. Penggunaan sistem operasi modern saat ini telah mendukung kemampuan untuk menjalankan beberapa program. 
@@ -20,6 +21,7 @@ pemrograman lain seperti C++. Maka dari itu, implementasi kelas Runnable lebih d
 2. Ketika kita menggunakan kelas Runnable, kita mendapatkan kebebasan untuk menggunakan kembali behavior class yang sudah tidak terpakai. Berbeda dengan
 thread class, behavior yang sudah tidak terpakai tidak akan dapat unutk di gunakan lagi.
 3. Runnable thread lebih cocok bagi programmer yang berorientasi objek
+
 
 ## Penggunaan Thread.sleep()
 **Pengertian Thread.sleep()**
