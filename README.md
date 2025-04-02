@@ -30,3 +30,7 @@ Metode Java Thread.sleep() dapat digunakan untuk menghentikan sementara eksekusi
 **Cara Kerja**
 Thread.sleep() berinteraksi dengan penjadwal thread untuk menempatkan thread saat ini dalam status tunggu selama periode waktu tertentu. Setelah waktu tunggu berakhir, status thread diubah ke status yang dapat dijalankan dan menunggu CPU untuk eksekusi lebih lanjut. Waktu sebenarnya thread saat ini tidur bergantung pada penjadwal thread yang merupakan bagian dari sistem operasi.
 
+## Sumber
+- [multithreading](https://www.techtarget.com/whatis/definition/multithreading)
+- [Perbedaan kelas Thread dan Runnable](https://zenhadi.lecturer.pens.ac.id/kuliah/SistemTerdistribusi/Modul%205%20Sister%20MultiThread%202.pdf)
+- [Thread.sleep](https://www.digitalocean.com/community/tutorials/thread-sleep-java)
